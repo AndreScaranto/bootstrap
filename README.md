@@ -14,4 +14,4 @@ unidade01: apresentação e arquivos de exercícios limpos.
 
 unidade02: download do Bootstrap - [Site do Bootstrap](https://getbootstrap.com/).
 
-unidade03: grid.
+unidade03: Container e container-fluid. Grid
