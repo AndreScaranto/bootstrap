@@ -14,4 +14,16 @@ unidade01: apresentação e arquivos de exercícios limpos.
 
 unidade02: download do Bootstrap - [Site do Bootstrap](https://getbootstrap.com/).
 
-unidade03: Container e container-fluid. Grid
+unidade03: Container e container-fluid. Grid.
+
+unidade04: Classes do Bootstrap para formatação. Alinhamento e Controle de listas.
+
+unidade05: Botões, imagens, textos, tabelas e vídeos.
+
+unidade06: Formulários
+
+unidade07: Barra de navegação
+
+unidade08: Cards
+
+unidade09: Carrossel de imagens
